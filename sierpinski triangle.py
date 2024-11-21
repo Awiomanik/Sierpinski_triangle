@@ -6,10 +6,10 @@ from loading_bar import LoadingBar
 
 
 # CONSTANTS
-FPS: int = 30
+FPS: int = 60
 INTERVAL: int = 1
 FRAME_COUNT: int = FPS * INTERVAL
-DEPTH: int = 10
+DEPTH: int = 13
 WHOLE_TRINAGLE: list[tuple[int, int]] = [(624, 0), (0, 1080), (1248, 1080)]
 BACKGROUND_COLOR: tuple[int, int, int] = (0, 0, 0)
 WINDOW_SIZE: tuple[int, int] = (1248, 1080)
