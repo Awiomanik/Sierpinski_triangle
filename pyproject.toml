@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "sierpinski-triangle"
+version = "0.1.0"
+description = ""
+authors = ["Wojciech Kosnik-Kowalczuk <wojciech.kosnik.kowalczuk@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pillow = "^11.0.0"
+loading_bar = {git = "https://github.com/Awiomanik/UtilityScripts", subdirectory = "Python_scripts/loading_bar"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
