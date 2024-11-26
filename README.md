@@ -48,5 +48,5 @@ The output will be saved as `sierpinski_triangle_zoom.gif`.
 Wojciech Kośnik-Kowalczuk (<wojciech.kosnik.kowalczuk@gmail.com>)
 
 ## License
-This project is licensed under the MIT License (see (LICENSE)[LICENSE]).
+This project is licensed under the MIT License (see (LICENSE)[#LICENSE]).
 
